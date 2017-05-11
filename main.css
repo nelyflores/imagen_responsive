@@ -19,3 +19,23 @@ width: 1200px;
         img {
  height: auto;
 }
+
+body{
+	background-color: red;
+}
+@media (min-width:700px){
+	body{
+		background-color: green;
+	}
+
+}
+@media(max-width: 480px){
+	body{
+background-color: purple;
+	}
+}
+@media(min-width: 1024px){
+	body{
+		background-color: pink;
+	}
+}
