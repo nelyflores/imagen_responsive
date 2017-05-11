@@ -1,0 +1,21 @@
+@media screen and ( max-width: 1024px )
+{
+  img {
+    width: 390px;
+}
+}
+    @media screen and ( min-width:1025px ) and ( max-width: 1280px )
+{
+      img {
+width: 1060px;
+ }
+}
+      @media screen and ( min-width: 1081px )
+{
+        img {
+width: 1200px;
+ }
+ }
+        img {
+ height: auto;
+}
